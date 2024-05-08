@@ -3,6 +3,8 @@ Política de Privacidade - App ChatBOT Plenário
 
 O app ChatBOT plenário não faz uso dos dados pessoais, nem coleta, nem efetua compartilhamento de nenhum dado, embora esteja implementada uma modalidade de autenticação local.
 
+Em relação à modalidade de autenticação local, são solicitados do usuário: e-mail e senha, mas esses dados são armazenados de forma local e a senha não nececessariamente corresponde à senha real do e-mail do usuário. Trata-se apenas de uma senha local.
+
 Trata-se de um chatbot especialista que responde perguntas do usuário, perguntas essas que devem estar relacionadas à legislações brasileiras, principalmente relativas ao contexto do Distrito Federal e ao poder legislativo do DF, mais especicamente no contexto que se aplica à Camara Legislativa do Distrito Federal.
 
 Basicamente o app tem a função/objetivo de ser uma ferramenta de auxilio à assessores parlamentares.
