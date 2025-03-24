@@ -1,12 +1,12 @@
 ==============================================
-Política de Privacidade - App ChatBOT Plenário
+Política de Privacidade - App Escuta CLDF
 ==============================================
 
 O app Escuta CLDF é um app desenvolvido para a CDLF que tem por objetivo escutar o cidação do DF por meio de sua Casa Legislativa.
-Faz uso do ambiente da CLDF para se integrar ao ambiente do Gov.Br meio no qual e feito o login do usuário.
+Faz uso do ambiente tecnológico da CLDF para se integrar ao ambiente de login do Gov.Br. para identificação do usuário.
 
 Em relação ao uso de dados pessoais:
 
-1- O app de teste interno nao faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
+1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
 2- A partir do teste fechado a ideia é que o app faça uso de um repositório de dados firebase. Serão armazenados: Nome, CPF e e-mail dos usuários conjuntamente com os problemas relatados. 
 Todavia, os dados dos usuários não serão divulgados. Apenas as informações relativas ao diagnóstico de problemas nas Regiões Administragivas do Distrito Federal serão objeto de montagem de uma base de dados maior.
