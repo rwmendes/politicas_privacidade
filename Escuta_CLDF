@@ -8,5 +8,12 @@ Faz uso do ambiente tecnológico da CLDF para se integrar ao ambiente de login d
 Em relação ao uso de dados pessoais:
 
 1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
+
 2- A partir do teste fechado a ideia é que o app faça uso de um repositório de dados firebase. Serão armazenados: Nome, CPF e e-mail dos usuários conjuntamente com os problemas relatados. 
-Todavia, os dados dos usuários não serão divulgados. Apenas as informações relativas ao diagnóstico de problemas nas Regiões Administragivas do Distrito Federal serão objeto de montagem de uma base de dados maior.
+   - Todavia, os dados dos usuários não serão divulgados. Apenas as informações relativas ao diagnóstico de problemas nas Regiões Administragivas do Distrito Federal serão objeto de montagem de uma base de dados maior.
+   - A partir das informações sobre os problemas será montado um repositório DW o que possibilitará a montagem de paineis, para uso por parte dos usuários dp app e da população.
+
+3- A identificação e login do usuários são necessários para o acesso e uso do app de forma não leviana. 
+   - A foto ou imagem é necessária para a constatação e verificação do problema.
+   - A localização é importante para identificação mais precisa de onde os problemas estão ocorrendo.
+   - Necessário identificar o usuário para personalização e tratamento de suas ocorrências pessoais, bem como para o envio de notificações e resposta ao cidadão de forma 
