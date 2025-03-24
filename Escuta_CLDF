@@ -9,7 +9,7 @@ Em relação ao uso de dados pessoais:
 
 1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
 
-2- A partir do teste fechado a ideia é que o app faça uso de um repositório de dados firebase. Serão armazenados: Nome, CPF e e-mail dos usuários conjuntamente com os problemas relatados. 
+2- A partir do teste fechado, versao de produção inclusive, a ideia é que o app faça uso de um repositório de dados firebase. Serão armazenados: Nome, CPF e e-mail dos usuários conjuntamente com os problemas relatados. 
    - Todavia, os dados dos usuários não serão divulgados. Apenas as informações relativas ao diagnóstico de problemas nas Regiões Administragivas do Distrito Federal serão objeto de montagem de uma base de dados maior.
    - A partir das informações sobre os problemas será montado um repositório DW o que possibilitará a montagem de paineis, para uso por parte dos usuários dp app e da população.
 
