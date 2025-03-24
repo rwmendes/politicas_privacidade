@@ -5,7 +5,16 @@ Política de Privacidade - App Escuta CLDF
 O app Escuta CLDF é um app desenvolvido para a CDLF que tem por objetivo escutar o cidação do DF por meio de sua Casa Legislativa.
 Faz uso do ambiente tecnológico da CLDF para se integrar ao ambiente de login do Gov.Br. para identificação do usuário.
 
-Em relação ao uso de dados pessoais:
+SOBRE O PROCESSO DE LOGIN:
+==========================
+
+1- É necessário ser cidadão brasileiro, ter um CPF e estar cadastrado no ambiente Gov.Br para fazer uso do App.
+
+2- O processo de Login garante segurança e lisura aos registros de ocorrências realizados por meio do app. Igualmente, propriciaram o tratamento indivisualizado aos cidadãos que fizerem uso do App.
+
+
+SOBRE OS DADOS COLETADOS:
+=========================
 
 1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
 
@@ -16,7 +25,16 @@ Em relação ao uso de dados pessoais:
 3- A identificação e login do usuários são necessários para o acesso e uso do app de forma não leviana. 
    - A foto ou imagem é necessária para a constatação e verificação do problema.
    - A localização é importante para identificação mais precisa de onde os problemas estão ocorrendo.
-   - Necessário identificar o usuário para personalização e tratamento de suas ocorrências pessoais, bem como para o envio de notificações e resposta ao cidadão de forma individual. 
+   - Se faz necessário identificar o usuário para personalização e tratamento de suas ocorrências pessoais, bem como para o envio de notificações e resposta ao cidadão de forma individual. 
 
 4- Sobre o compartilhamento de dados
    - Os dados dos usuários não são compartilhados. Os dados coletados serão transformados em visualizações e mapeamentos. Esses sim serão divuldados, mas não terão nenhuma identificação pessoal.
+
+
+SOBRE AS VERSÕES:
+=================
+
+1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
+
+2- A partir do teste fechado, versao de produção inclusive, a ideia é que além dos dados locais o app faça uso de um repositório de dados firebase.
+
