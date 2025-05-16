@@ -1,0 +1,59 @@
+
+# 📜 Política de Privacidade - App Escuta CLDF
+
+O **App Escuta CLDF** é uma aplicação desenvolvida para a **CLDF (Câmara Legislativa do Distrito Federal)** com o objetivo de escutar o cidadão do DF por meio de sua Casa Legislativa.  
+Faz uso do ambiente tecnológico da CLDF e integra-se ao ambiente de login do **Gov.Br** para identificação segura do usuário.
+
+---
+
+## 🔐 SOBRE O PROCESSO DE LOGIN
+
+1. ✅ É necessário ser **cidadão brasileiro**, possuir um **CPF** e estar cadastrado no ambiente **Gov.Br** para utilizar o app.
+2. 🛡️ O processo de login garante **segurança** e **lisura** aos registros de ocorrências feitos no app.  
+   Também permite o **tratamento individualizado** das demandas dos cidadãos.
+
+---
+
+## 📊 SOBRE OS DADOS COLETADOS
+
+1. 🧪 **Versão de teste interno:**  
+   - Nenhum dado é enviado para servidores externos.  
+   - **Todos os dados ficam retidos localmente** no aparelho do próprio usuário.
+
+2. 🚀 **Versão de teste fechado e produção:**  
+   - Os dados serão armazenados em um repositório **Firebase**.  
+   - Serão coletadas as seguintes informações:
+     - 👤 **Nome**
+     - 🆔 **CPF**
+     - 📧 **E-mail**
+     - 📍 **Localização**
+     - 📷 **Imagem ou foto da ocorrência**
+     - 📝 **Descrição do problema relatado**
+
+   > ℹ️ **Importante:**  
+   > Os dados **pessoais dos usuários não serão divulgados**. Apenas os diagnósticos dos problemas nas **Regiões Administrativas do DF** serão utilizados para formar uma base de dados pública.
+
+   > 📌 **Finalidade dos dados**:  
+   > Com base nos relatos de problemas, será construído um repositório tipo **Data Warehouse (DW)**, permitindo a criação de **painéis interativos** para uso da população e da própria CLDF.
+
+3. 🔎 **Motivos da coleta de identificação e localização:**
+   - Garante o uso responsável do app;
+   - Permite **verificação de autenticidade** dos relatos;
+   - Possibilita **respostas individualizadas** via notificações;
+   - Relaciona as ocorrências a um dispositivo e cidadão de forma precisa.
+
+4. 🚫 **Compartilhamento de dados:**
+   - ❌ **Os dados dos usuários não são compartilhados com terceiros.**  
+   - ✅ Os dados coletados serão usados para gerar **mapas e visualizações estatísticas** públicas, **sem qualquer identificação pessoal**.
+
+---
+
+## 🧪 SOBRE AS VERSÕES
+
+1. 🧩 **Versão preliminar (teste interno):**  
+   - Os problemas registrados ficam armazenados **apenas no celular do usuário**.
+   - 💬 _Obs: Apenas os dados essenciais para o envio de notificações são armazenados no Firebase, em servidores situados no território nacional brasileiro._
+
+2. 🛠️ **Versão de teste fechado e produção:**  
+   - Todos os dados passam a ser armazenados na **plataforma Firebase**, com o objetivo de tratamento e retorno das ocorrências ao cidadão.
+   - 💬 _Obs: Os dados usados nos painéis públicos futuros serão **anônimos**, sem qualquer informação pessoal do usuário._
