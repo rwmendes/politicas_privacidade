@@ -23,9 +23,9 @@ SOBRE OS DADOS COLETADOS:
    - A partir das informações sobre os problemas será montado um repositório DW o que possibilitará a montagem de paineis, para uso por parte dos usuários dp app e da população.
 
 3- A identificação e login do usuários são necessários para o acesso e uso do app de forma não leviana. 
-   - A foto ou imagem é necessária para a constatação e verificação do problema.
+   - A foto ou imagem é necessária para o registro, confirmação de veracidade e verificação do problema.
    - A localização é importante para identificação mais precisa de onde os problemas estão ocorrendo.
-   - Se faz necessário identificar o usuário para personalização e tratamento de suas ocorrências pessoais, bem como para o envio de notificações e resposta ao cidadão de forma individual. 
+   - Se faz necessário identificar o usuário para personalização e tratamento de suas ocorrências pessoais, bem como do seu dispositivo, para o envio de notificações e resposta ao cidadão de forma individual. 
 
 4- Sobre o compartilhamento de dados
    - Os dados dos usuários não são compartilhados. Os dados coletados serão transformados em visualizações e mapeamentos. Esses sim serão divuldados, mas não terão nenhuma identificação pessoal.
@@ -34,7 +34,9 @@ SOBRE OS DADOS COLETADOS:
 SOBRE AS VERSÕES:
 =================
 
-1- O app de teste interno não faz uso de nenhum dado. Todos os dados ficam retidos no celular do proprio usuário.
+1- Na versão preliminar do app, ou de teste interno, os dados sobre os problemas ficam armazendos em base local, ou seja, no celular do próprio cidadão/usuário.
+   - Obs: apenas os dados necessários ao envio de notificações são armazenados na plataforma Firebase da Google, em sitio do território nacional brasileiro.
 
-2- A partir do teste fechado, versao de produção inclusive, a ideia é que além dos dados locais o app faça uso de um repositório de dados firebase.
+2- A partir do teste fechado, versao de produção inclusive, todos os dados necessitaram ser armazenados na plataforma de banco de dados, no caso o firebase, para tratamento dos problemas e retorno/resposta ao cidadão sobre suas ocorrências.
+   - Obs: Dados destinados aos paineis, objeto de construção futura, não levará ou herdará dados relativos aos usuários. Será apenas uma massa de dados estatística.
 
