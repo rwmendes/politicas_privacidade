@@ -52,7 +52,7 @@ Ele **não substitui** consultas oficiais, mas oferece um meio ágil e acessíve
 ## 🧾 Contato
 
 Dúvidas ou sugestões podem ser encaminhadas ao desenvolvedor:  
-📧 **rwmendes@gmail.com**  
+📧 **rogerio.mendes@cl.df.gov.br**  
 💼 **Câmara Legislativa do Distrito Federal (CLDF)**
 
 ---
