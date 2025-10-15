@@ -8,26 +8,14 @@
 ## 🔍 Visão Geral
 
 O **ChatBOT Plenário** respeita a sua privacidade.  
-Este aplicativo **não coleta, armazena nem compartilha dados pessoais** de seus usuários.  
-Apesar de possuir um sistema de autenticação local, **nenhuma informação é transmitida a servidores externos**.
-
----
-
-## 🔐 Autenticação Local
-
-Para permitir o uso personalizado do app, é solicitada uma **autenticação local**, composta por:
-
-- **E-mail**
-- **Senha (local)**
-
-Esses dados são armazenados **somente no dispositivo do usuário**, de forma segura.  
-A senha **não precisa corresponder à senha real do e-mail** — trata-se apenas de um identificador local para uso interno do app.
+Este aplicativo **não coleta, não, armazena, nem compartilha dados pessoais** de seus usuários.  
+A unica informação transmitida são as perguntas que são repassadas para uma API privada para a optenção das respostas ao bot.
 
 ---
 
 ## 🤖 Funcionalidade do ChatBOT
 
-O ChatBOT atua como **assistente especializado** para responder perguntas relacionadas a:
+O ChatBOT é um conjunto interface(app)/API que atua como **assistente especializado** para responder perguntas relacionadas a:
 
 - 📜 **Legislação brasileira**
 - 🏛️ **Contexto do Distrito Federal**
@@ -45,7 +33,7 @@ A base de conhecimento e o código do chatbot **não estão contidos dentro do a
 
 O aplicativo, portanto:
 
-- Não armazena conteúdo das conversas;
+- Não armazena conteúdo das conversas, no entanto, possibilita a exportação desse conteúdo;
 - Apenas **envia perguntas e exibe respostas** obtidas da base externa;
 - Serve como uma **ponte** entre o usuário e o sistema inteligente remoto.
 
