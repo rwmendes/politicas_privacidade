@@ -9,7 +9,7 @@
 
 O **ChatBOT Plenário** respeita a sua privacidade.  
 Este aplicativo **não coleta, não, armazena, nem compartilha dados pessoais** de seus usuários.  
-A unica informação transmitida são as perguntas que são repassadas para uma API privada para a optenção das respostas ao bot.
+A unica informação transmitida são as perguntas que são repassadas para uma API privada para a obtenção das respostas ao bot.
 
 ---
 
