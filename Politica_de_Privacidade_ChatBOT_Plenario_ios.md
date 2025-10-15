@@ -15,7 +15,7 @@ A unica informação transmitida são as perguntas que são repassadas para uma 
 
 ## 🤖 Funcionalidade do ChatBOT
 
-O ChatBOT é um conjunto interface(app)/API que atua como **assistente especializado** para responder perguntas relacionadas a:
+O ChatBOT é um conjunto interface(app ios)/API que atua como **assistente especializado** para responder perguntas relacionadas a:
 
 - 📜 **Legislação brasileira**
 - 🏛️ **Contexto do Distrito Federal**
